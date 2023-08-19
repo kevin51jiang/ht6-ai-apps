@@ -1,0 +1,12 @@
+# Natural Language Processing
+langchain==0.0.267
+cohere
+chromadb
+unstructured
+docx2txt
+pdfminer.six
+
+
+# Utilities
+click # Command line utils
+
