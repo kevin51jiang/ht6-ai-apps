@@ -11,7 +11,7 @@ Setup the venv
 python -m venv .venv
 
 source .venv/bin/activate # On Mac/Linux
-.venv/bin/Activate.ps1  # on Windows
+.venv/scripts/activate  # on Windows
 ```
 
 Then, once you're done that, install the requirements.
